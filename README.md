@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)]()
+[![Deterministic](https://img.shields.io/badge/Deterministic-Yes-green)]()
+[![License: UOSACL‑1.0](https://img.shields.io/badge/License-UOSACL--1.0-orange)]()
+
+
 labutils_pro — Deterministic, Robust & Zero‑Dependency Python Toolkit
 labutils_pro is a single‑file, production‑grade utility toolkit designed for research, machine learning, scientific computing, agents, optimization pipelines, and any environment where determinism, robustness, and simplicity matter.
 
